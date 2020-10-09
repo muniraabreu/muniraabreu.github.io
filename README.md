@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html lang="pt-pt">
 
 	<head>
 		<meta charset="utf-8">
 		<title>Munira</title>
-		title: rCharts Munira
 	</head>
 
 
